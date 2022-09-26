@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qCaZDGymom+NEn/Qkpdy6n+xv4n0VEpETWfvAWjHVMjRd8HiRZ4LAJN3WJvxSED0kLsvgBHpLrBaPsmM8qEtiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\szaba\\OneDrive\\Asztali gép\\ToGithub\\Asp-Net-Core\\FinanceNewsTicker\\FinanceNewsTicker\\FinanceNewsTicker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\szaba\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
